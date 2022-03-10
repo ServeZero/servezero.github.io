@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkservezero_build_doc=self.webpackChunkservezero_build_doc||[]).push([[561],{6126:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/servezero","name":"servezero","count":1,"permalink":"/blog/tags/servezero"}')}}]);
