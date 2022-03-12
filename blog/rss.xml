@@ -16,7 +16,7 @@
             <content:encoded><![CDATA[<p>このドキュメントサイトは<strong><a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a></strong>というサイトジェネレータで構築しています。<br>
 <code>yarn build</code>とビルド処理を実行すると<code>build</code>ディレクトリに静的ファイルをたくさん生成してくれます。それらをすべてWebサーバにアップすればサイト公開終わりです。<br>
 <!-- -->このサイトはGitHubの配信機能を利用しているので、<code>ServeZero/servezero.github.io</code>というレポジトリにアップすれば<code>https://servezero.github.io/</code>のURLで参照できるようになっています。<br>
-<code>servezero.github.io</code>のレポジトリとサイト公開の連携はGitHubの機能です。</p><p><strong><a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a></strong>はドキュメントページやブログをMarkdownフォーマットで作成しておけばうまくドキュメントサイトとしてまとめてくれます。
+<code>servezero.github.io</code>のレポジトリとサイト公開の連携は<strong>GitHub Pages</strong>というGitHubの機能です。</p><p><strong><a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a></strong>はドキュメントページやブログをMarkdownフォーマットで作成しておけばうまくドキュメントサイトとしてまとめてくれます。
 Markdownフォーマットの記述方法を覚える必要がありますが、必要応じて覚えていけばいいので最初はほとんど覚えなくても十分使えます。<br>
 <!-- -->サイドバーの表示とかサイトのレイアウトを変えるには少々プログラミング知識が必要です。また日本語のソフトではないので日本語用にカスタマイズしていく必要があります。<br>
 <!-- -->まだあまり日本語のカスタマイズ情報はないので試行錯誤することになると思います。<br>
