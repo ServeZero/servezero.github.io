@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkservezero_build_doc=self.webpackChunkservezero_build_doc||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u3088\u3046\u3053\u305d","permalink":"/blog/welcome"}]}')}}]);
